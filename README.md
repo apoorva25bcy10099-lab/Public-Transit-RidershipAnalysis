@@ -25,3 +25,9 @@ This project addresses the real-world need of a city's public transit authority 
 ##  Key Findings
 The analysis, based on simulated but realistic data, identified **Route 303 (University)** as the busiest route. This finding suggests that this route requires the highest priority for additional frequency or capacity upgrades to better serve the public.
 
+
+OUTPUT IMAGES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+<img width="797" height="503" alt="Screenshot 2025-11-25 205615" src="https://github.com/user-attachments/assets/9e0e4ebb-926b-4ed0-9cf5-2986dfd75f5c" />
+<img width="1308" height="740" alt="image" src="https://github.com/user-attachments/assets/f7358fe9-ad4f-42a5-8c02-9e8283ab97cf" />
+
